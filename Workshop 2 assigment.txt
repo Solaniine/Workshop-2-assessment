@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: Workshop 2, Configuration: Debug x64 ------
+1>Workshop 2.cpp
+1>C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(23,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>Workshop 2.vcxproj -> C:\Users\Student\Desktop\C++\Workshop 2\x64\Debug\Workshop 2.exe
+1>Done building project "Workshop 2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

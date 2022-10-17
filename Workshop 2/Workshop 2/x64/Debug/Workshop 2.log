@@ -1,0 +1,18 @@
+﻿  Workshop 2.cpp
+C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(26,5): error C2065: 'wordList2': undeclared identifier
+C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(26,30): error C2679: binary '[': no operator found which takes a right-hand operand of type 'std::string' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(1469,40): message : could be 'const _Ty &std::vector<_Ty,std::allocator<_Ty>>::operator [](const unsigned __int64) noexcept const'
+          with
+          [
+              _Ty=std::string
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(1459,34): message : or       '_Ty &std::vector<_Ty,std::allocator<_Ty>>::operator [](const unsigned __int64) noexcept'
+          with
+          [
+              _Ty=std::string
+          ]
+C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(26,30): message : while trying to match the argument list '(std::vector<std::string,std::allocator<std::string>>, std::string)'
+C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(61,28): error C2065: 'wordList2': undeclared identifier
+C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(63,15): error C2065: 'wordList2': undeclared identifier
+C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(65,46): error C2065: 'wordList2': undeclared identifier
+C:\Users\Student\Desktop\C++\Workshop 2\Workshop 2\Workshop 2.cpp(65,71): error C2065: 'wordList2': undeclared identifier
